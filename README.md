@@ -3,11 +3,23 @@
 # 👋 Hi, I'm Lalith (Lalith Sagar Kambala)
 **Full Stack Developer · AI Enthusiast · Problem Solver**
 
-[![Website](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=appveyor)](https://lalithsagar10.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lalith-sagar-kambala-48a597199/)
-[![Email](https://img.shields.io/badge/Email-Get_in_touch-lightgrey?style=for-the-badge&logo=gmail)](mailto:lalithsagarkambala@gmail.com)
+<p align="center">
+  <a href="https://github.com/lalithsagar10/lalithsagar10/blob/main/LALITHSAGAR_KAMBALA_Resume_SE.pdf">
+    <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=file-pdf" alt="Resume" />
+  </a>
+</p>
 
----
+<p align="center">
+  <a href="https://lalithsagar10.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=appveyor" />
+  </a>
+  <a href="https://www.linkedin.com/in/lalith-sagar-kambala-48a597199/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:lalithsagarkambala@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get_in_touch-lightgrey?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 <!-- Animated typing SVG -->
 <p>
