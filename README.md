@@ -4,7 +4,7 @@
 **Full Stack Developer · AI Enthusiast · Problem Solver**
 
 <p align="center">
-  <a href="https://github.com/lalithsagar10/lalithsagar10/blob/main/Sagar_SoftwareEngineer_Resume.pdf">
+  <a href="https://github.com/lalithsagar10/lalithsagar10/blob/main/Software_Engineer_Kambala.pdf">
     <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=file-pdf" alt="Resume" />
   </a>
 </p>
