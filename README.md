@@ -3,8 +3,8 @@
 **Full Stack Software Engineer · AI / LLM Engineer · Problem Solver**
 
 <p align="center">
-  <a href="https://github.com/lalithsagar10/lalithsagar10/blob/main/SoftwareEngineer_Resume_Kambala.pdf">
-    <img src="https://drive.google.com/file/d/1Q1L2KQM2acJV9kdj4cREEl-B29YWceOH/view?usp=sharing" alt="Resume" />
+  <a href="https://drive.google.com/file/d/1Q1L2KQM2acJV9kdj4cREEl-B29YWceOH/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=file-pdf" alt="Resume" />
   </a>
 </p>
 
