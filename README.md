@@ -1,10 +1,9 @@
-<!-- README.md for Lalith Sagar Kambala (replace placeholders) -->
+# 👋 Hi, I'm Lalith Sagar Kambala
 
-# 👋 Hi, I'm Lalith (Lalith Sagar Kambala)
-**Full Stack Developer · AI Enthusiast · Problem Solver**
+**Full Stack Software Engineer · AI / LLM Engineer · Problem Solver**
 
 <p align="center">
-  <a href="https://github.com/lalithsagar10/lalithsagar10/blob/main/Software_Engineer_Kambala.pdf">
+  <a href="https://github.com/lalithsagar10/lalithsagar10/blob/main/SoftwareEngineer_Resume_Kambala.pdf">
     <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=file-pdf" alt="Resume" />
   </a>
 </p>
@@ -21,57 +20,114 @@
   </a>
 </p>
 
-<!-- Animated typing SVG -->
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&width=500&lines=Full+Stack+Developer+%7C+AI+Enthusiast;Building+scalable+apps+%26+ML+solutions" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&width=650&lines=Full+Stack+Software+Engineer;Building+0%E2%86%921+Products+with+AI+%26+LLMs;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js" alt="Typing animation" />
 </p>
 
 ---
 
-## 🔭 About me
-I build end-to-end web applications and experiment with AI/ML to solve practical problems. I enjoy clean architecture, data-driven features, and turning ideas into reliable products. Currently focused on production-ready frontend + backend systems and leveraging vision + NLP for product features.
+## 🔭 About Me
+
+Full Stack Software Engineer with experience building **production-grade web and AI-powered applications**. I specialize in **React, Next.js, TypeScript, Node.js**, and cloud infrastructure, with hands-on experience integrating **LLMs, agentic systems, and AI APIs** into real-world products.
+
+I enjoy shipping 0→1 products, optimizing performance at scale, and designing clean, scalable architectures that move fast without breaking.
 
 ---
 
-## 💼 Professional Experience
-- **Full Stack Developer — IEJL** *(2025 – Present)*  
-  Building admin dashboards, role-based systems, and full-stack features using React, Node, and modern cloud tooling.
+## 💼 Experience
 
-- **Founding Engineer — Todaiyo** *(2025)*  
-  Contributed to an AI-powered SaaS that diagnoses home projects using computer vision & NLP, and helps users choose DIY vs contractor routes.
+### **Founding Software Engineer — Todaiyo.ai** *(Sep 2025 – Present)*
 
-- **Web Development Intern — Coincent Technologies** *(2021)*  
-  Built a Job Portal Management System and supported SQL database operations.
+* Leading end-to-end full-stack development for a 0→1 AI-powered SaaS product, owning architecture, deployment, and CI/CD workflows.
+* Built a responsive **React** frontend with a scalable **Node.js** backend and **Supabase** real-time database.
+* Integrated OpenAI APIs with guardrails, reducing API costs by **25%**, and implemented AI image-generation pipelines for reliable in-app image creation.
+* Instrumented **Google Analytics & GTM**, analyzing 75%+ of events to improve engagement and feature adoption.
+
+### **AI Full Stack Engineer (Part-time) — Consumer Genie** *(Sep 2025 – Present)*
+
+* Built an **agentic AI-driven B2B intelligence and procurement platform**, reducing vendor research time by **40%**.
+* Designed autonomous agents for crawling, scraping, validating, and summarizing supplier data.
+* Implemented using **React, TypeScript, Python**, deployed on **AWS with Docker**, and integrated **Gemini API** for LLM-based reasoning.
+* Orchestrated agent workflows and CI/CD pipelines with testing under Agile practices.
+
+### **Full Stack Software Engineer — IEJL** *(Jul 2025 – Oct 2025)*
+
+* Developed full-stack web apps and internal tools using **Next.js, TypeScript, Tailwind CSS**.
+* Improved UI load times by **30%** and boosted real-time data sync efficiency by **25%** using Supabase.
+* Implemented Dockerized CI/CD pipelines on **AWS**, achieving **40% faster deployments** and **30% improved reliability**.
+
+### **Web Development Intern — Coincent Technologies** *(Sep 2022 – Nov 2022)*
+
+* Built a **Job Portal Management System**, optimizing MySQL queries and modular UI components.
+* Improved accessibility for 95% of users and reduced bounce rates by 20%.
+* Supported Java (Spring Boot) APIs and maintained 99% uptime through proactive debugging.
 
 ---
 
-## 💡 Featured Projects
-- **Article Semantic Search Engine** — Built a semantic search pipeline that retrieves contextually relevant articles using embeddings and vector similarity.  
-  `tech:` Python · NLP · Transformers · FAISS
+## 🚀 Featured Projects
 
-- **CNN Brain Tumor Detection** — Deep learning model achieving 94% accuracy for classifying MRI scans.  
-  `tech:` Python · TensorFlow · OpenCV · Keras
+### **Genie Shop (Consumer Genie)**
 
-- **Blockchain Property Tax Collection** — Transparent and tamper-proof property tax system leveraging blockchain smart contracts.  
-  `tech:` Solidity · Ethereum · Web3 · React
+* Built a product search system using **LangGraph state machines** with intent-based routing.
+* Implemented AI-driven web scraping pipelines using **Gemini**, DuckDuckGo/Serper APIs, and retry strategies achieving **95%+ query completion**.
 
-- **Payroll Management System** — Flask + MongoDB payroll portal for secure employee salary management.  
-  `tech:` Flask · MongoDB · Docker
+### **Article Semantic Search using LLMs**
 
-- **Job Board App** — Next.js job board with reporting & admin flows, enabling recruiters and applicants to interact seamlessly.  
-  `tech:` Next.js · React · PostgreSQL
+* Designed a financial news research platform using **LangChain**, OpenAI embeddings, and **FAISS**.
+* Built an interactive **Streamlit** app for semantic search and contextual Q&A.
+
+### **Gemini API Clone**
+
+* Developed a responsive Gemini-like web app using **React, HTML, CSS, JavaScript**.
+* Integrated REST APIs and async workflows for real-time responses.
+
+### **Brain Tumor Detection (Deep Learning)**
+
+* Built a CNN with **94% accuracy** using TensorFlow, improving feature extraction and reducing overfitting by 15%.
+* Automated early detection workflows, cutting diagnosis time by 40%.
+
+### **Blockchain Property Tax System**
+
+* Built a decentralized tax payment system processing 500+ transactions with full transparency.
+* Reduced fraud by **95%** using SHA-256 hashing and immutable records.
 
 ---
 
-## 🚀 What I'm Building Next
-- Enhancing AI diagnostics pipelines for vision-based models.  
-- Designing ML inference workflows, system architectures, and learning about LLMs + transformer-based language models.  
-- Shipping a production-ready job board with RBAC and moderation tools.  
-- Exploring AR/VR with React and strengthening frontend expertise in Next.js + TypeScript.  
-- Open to collaborations on full-stack, AI/ML, or emerging tech projects.  
+## 🧠 Skills & Tech Stack
+
+**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, Material UI
+**Backend:** Node.js, Python, Flask, Java (Spring Boot), REST APIs
+**AI / ML:** LLMs, LangChain, LangGraph, OpenAI API, Gemini API, TensorFlow, scikit-learn
+**Databases:** Supabase, MongoDB, MySQL, Vector Databases, FAISS
+**Cloud & DevOps:** AWS, Docker, CI/CD, Linux, Git
+**Tools:** VS Code, Jupyter, CursorAI, Selenium, Jira
+
+---
+
+## 🎓 Education
+
+**M.S. in Computer Science** — University of Central Missouri *(Aug 2023 – May 2025)*
+GPA: **3.55 / 4.00**
+
+---
+
+## 🏆 Certifications & Achievements
+
+* Oracle Cloud Infrastructure 2024 Generative AI Professional
+* Introduction to Large Language Models — Google Cloud
+* Accenture North America Data Science & Visualization (Forage)
+
+---
+
+## 🌱 What I'm Focused On
+
+* Building production-ready **AI & LLM-powered systems**
+* Designing agentic workflows and scalable ML pipelines
+* Advanced frontend patterns with **Next.js & TypeScript**
+* Open to collaborations on **full-stack, AI/ML, and GenAI products**
+
 ---
 
 <p align="center">
 Made with ⚙️ & ☕ — keep building.
 </p>
-
