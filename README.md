@@ -9,7 +9,7 @@
    rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Resume-View-6C63FF?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" />
 </a>
-<a href="https://lalithsagar10.github.io/Portfolio/">
+<a href="https://portfolio-2026-swart-seven.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=appveyor&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/lalith-sagar-kambala-48a597199/">
